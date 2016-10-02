@@ -1,0 +1,9 @@
+name: nyc-traffic-model
+
+dependencies:
+  - python=3.5
+  - pandas
+  - seaborn
+  - requests
+  - pip:
+    - mplleaflet
