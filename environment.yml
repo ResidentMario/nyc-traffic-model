@@ -9,3 +9,5 @@ dependencies:
     - mplleaflet
     - missingno
     - geopandas
+    - rtree
+    - pyproj
