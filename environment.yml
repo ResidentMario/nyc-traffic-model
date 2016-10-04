@@ -5,6 +5,7 @@ dependencies:
   - pandas
   - seaborn
   - requests
+  - statsmodels
   - pip:
     - mplleaflet
     - missingno
